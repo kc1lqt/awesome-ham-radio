@@ -8,7 +8,7 @@ A curated list of awesome ham radio stuff
 * [Technician Ham Class - Sept 2018](https://www.youtube.com/playlist?list=PLZ_9BZQ8gpzjSuF-nExJHAXhzrf_NnYfH)
 * David Casler's [Technician Ham Radio License](https://www.youtube.com/playlist?list=PL07A7D1C9D7BF7F48)
 
-### Deneral
+### General
 
 * [General Class 9th Edition Sept 2019](https://www.youtube.com/playlist?list=PLZ_9BZQ8gpziLtp4t55A9G6k2s4faOBcK)
 * David Casler's [General Ham Radio License](https://www.youtube.com/playlist?list=PL0R9jy9LZw_35KimLiSIOH0YdNtCeYcRe)

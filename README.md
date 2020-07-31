@@ -1,6 +1,8 @@
 # awesome-ham-radio [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome ham radio stuff
 
+[Ham Radio Wiki](https://ham-radio.fandom.com/wiki/Ham_Radio_Wiki)
+
 ## Test Prep
 
 ### Technician

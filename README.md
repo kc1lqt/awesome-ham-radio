@@ -36,8 +36,7 @@ A curated list of awesome ham radio stuff
 * [DitDit - THE PODCAST FOR MORSE CODE AND CW OPERATORS!](https://www.ditdit.fm/)
    * [DitDit - THIS IS YOUR ONE STOP REFERENCE RESOURCE FOR ALL THINGS MORSE CODE AND CW!](https://www.ditdit.fm/resources)
 * [Morse code Ninja](https://morsecode.ninja/)
-* [First Class CW Operators' Club](https://g4foc.org/)
-  * [First Class CW Operators' Club - IMPROVING YOUR CW](https://g4foc.org/Improving-Your-CW)
+* [First Class CW Operators' Club - IMPROVING YOUR CW](https://g4foc.org/Improving-Your-CW)
 
 ### Learning & Practice
 
@@ -67,6 +66,15 @@ A curated list of awesome ham radio stuff
 
 * [The Straight Key Century Club](http://www.skccgroup.com/)
 * [SSN sideswipers Net](http://www.sideswipernet.org/)
+* [FIST CE Club](http://www.fists.org/)
+* [ North American QRP CW Club](http://naqcc.info/)
+* [First Class CW Operators' Club](https://g4foc.org/)
+* [The Radio Telegraphy High Speed Club](http://morsecode.nl/hsc%20club.html) - 25 Wpm or higher
+* [The Radio Telegraphy Very High Speed Club](http://morsecode.nl/vhsc%20club.html) - 40 wpm or higher
+* [The Radio Telegraphy Super High Speed Club](http://morsecode.nl/shsc%20club.html) -  telegrapy speed of 250 letters
+per minute or higher(Paris-base,50 WPM)
+* [The Radio Telegraphy Extremely High Speed Club](http://morsecode.nl/ehsc%20club.html) - telegrapy speed of 300 letters
+per minute or higher(Paris-base,60 WPM)
 
 ### Software
 

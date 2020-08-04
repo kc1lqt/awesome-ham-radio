@@ -97,4 +97,8 @@ per minute or higher(Paris-base,60 WPM)
 
 ## Homebrewing
 
-### Trancivers
+### Transceivers
+
+* [QCX+ 5W CW transceiver kit](https://www.qrp-labs.com/qcxp.html)
+* [QRPGuys 40/30/20m DSB Digital Transceiver II Kit](https://qrpguys.com/qrpguys-dsb-digital-transceiver2)
+* [UBITX V6](https://www.hfsignals.com/index.php/ubitx-v6/)

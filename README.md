@@ -30,21 +30,14 @@ A curated list of awesome ham radio stuff
 * [Radiotelegraphy Net](http://www.radiotelegraphy.net/) - History - Keys - Operations - Technology
 * [PA3BWK's Ultimate Morse Code Web site](http://morsecode.nl/)
 * [RADIO OPERATOR, HIGH SPEED, MANUAL (766)](https://militaryyearbookproject.com/references/old-mos-codes/wwii-era/army-wwii-codes/communications/radio-operator-high-speed-manual-766)
-
-
-[//]: # (http://highspeedtelegraphy.com/Morse-keys)
-[//]: # (http://highspeedtelegraphy.com/Morse-Runner-toplist)
-[//]: # (https://military.wikia.org/wiki/Morse_code)
-[//]: # (https://ham.stackexchange.com/questions/1281/what-is-the-record-for-the-highest-non-automated-over-the-air-cw-wpm-speed)
-
 * [WS1SM CW Page, Telegraph History, Morse Code, Key Collecting, Operating CW, CW Links & More<](http://www.ws1sm.com/CW-Page.html)
 * [MEET THE CHAMPION, by Tony Smith G4FAI](http://www.telegraph-office.com/pages/turner.html)
 * [Code Proficiency Certificate](http://www.arrl.org/code-proficiency-certificate)
-* [DitDit - THIS IS YOUR ONE STOP REFERENCE RESOURCE FOR ALL THINGS MORSE CODE AND CW!](https://www.ditdit.fm/resources)
 * [DitDit - THE PODCAST FOR MORSE CODE AND CW OPERATORS!](https://www.ditdit.fm/)
+   * [DitDit - THIS IS YOUR ONE STOP REFERENCE RESOURCE FOR ALL THINGS MORSE CODE AND CW!](https://www.ditdit.fm/resources)
 * [Morse code Ninja](https://morsecode.ninja/)
 * [First Class CW Operators' Club](https://g4foc.org/)
-* [First Class CW Operators' Club - IMPROVING YOUR CW](https://g4foc.org/Improving-Your-CW)
+  * [First Class CW Operators' Club - IMPROVING YOUR CW](https://g4foc.org/Improving-Your-CW)
 
 ### Learning & Practice
 

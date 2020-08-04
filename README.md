@@ -24,15 +24,13 @@ A curated list of awesome ham radio stuff
 
 * [Morsetelegrafieseite DK5KE](https://www.qsl.net/dk5ke/)
 * [Radiotelegraphy Net](http://www.radiotelegraphy.net/) - History - Keys - Operations - Technology
-* [PA3BWK's Ultimate Morse Code Web site](http://morsecode.nl/hsc%20club.html)
+* [PA3BWK's Ultimate Morse Code Web site](http://morsecode.nl/)
+* [RADIO OPERATOR, HIGH SPEED, MANUAL (766)](https://militaryyearbookproject.com/references/old-mos-codes/wwii-era/army-wwii-codes/communications/radio-operator-high-speed-manual-766)
 
-http://highspeedtelegraphy.com/Morse-keys
-http://aa9pw.com/
-http://aa9pw.com/morsecode/
-https://www.eham.net/article/41222
-https://www.tuicoupon.com/discover/high-speed-morse-code
-https://militaryyearbookproject.com/references/old-mos-codes/wwii-era/army-wwii-codes/communications/radio-operator-high-speed-manual-766
-http://highspeedtelegraphy.com/Morse-Runner-toplist
+
+[//]: # (http://highspeedtelegraphy.com/Morse-keys)
+[//]: # (http://highspeedtelegraphy.com/Morse-Runner-toplist)
+
 https://military.wikia.org/wiki/Morse_code
 https://w6rec.com/learn-morse-code/
 https://www.dxzone.com/morse-code-learn-guide/
@@ -64,12 +62,14 @@ https://g4foc.org/
 ### Learning & Practice
 
 * [Learn CW (Morse Code) as a language](https://w6rec.com/learn-morse-code/)
-* [Some things I've discovered about learning and operating CW](http://cw.dimebank.com/cak/k6dbg/k6dbg_cw.html)
+* [K6DBG - CW really is a language!](http://cw.dimebank.com/cak/k6dbg/k6dbg_cw.html)
 * [CW](https://www.qsl.net/n4nss/cw.htm)
+* [Morse Code Practice](http://aa9pw.com/morsecode/)
 
 
 ### QRQ - High Speed Code
 
+* [High Speed Morse (HSM) ](https://www.eham.net/article/41222)
 * [QRQ or Copying CW over 70 wpm](https://sites.google.com/site/tomw4bqf/copyingcwover70wpm)
 * [High Speed CW Summary of information by AH6NB, Jim Reid, jreid@aloha.net](https://www.qth.com/ka9fox/high_speed_cw.txt)
 * [DX zone High Speed CW Links](https://www.dxzone.com/catalog/Operating_Modes/Morse_code/High_Speed_CW/)

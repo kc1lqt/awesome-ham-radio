@@ -65,9 +65,9 @@ A curated list of awesome ham radio stuff
 ### Clubs & Organizations
 
 * [The Straight Key Century Club](http://www.skccgroup.com/)
-* [SSN sideswipers Net](http://www.sideswipernet.org/)
-* [FIST CE Club](http://www.fists.org/)
-* [ North American QRP CW Club](http://naqcc.info/)
+* [SSN Sideswipers Net](http://www.sideswipernet.org/)
+* [FIST CW Club](http://www.fists.org/)
+* [North American QRP CW Club](http://naqcc.info/)
 * [First Class CW Operators' Club](https://g4foc.org/)
 * [The Radio Telegraphy High Speed Club](http://morsecode.nl/hsc%20club.html) - 25 Wpm or higher
 * [The Radio Telegraphy Very High Speed Club](http://morsecode.nl/vhsc%20club.html) - 40 wpm or higher

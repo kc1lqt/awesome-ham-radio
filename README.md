@@ -5,6 +5,9 @@ A curated list of awesome ham radio stuff
 
 ## Test Prep
 
+* [The Ham Whisperer: Ham Courses](http://www.hamwhisperer.com/p/ham-courses.html)
+
+
 ### Technician
 
 * [Technician Ham Class - Sept 2018](https://www.youtube.com/playlist?list=PLZ_9BZQ8gpzjSuF-nExJHAXhzrf_NnYfH)
@@ -22,6 +25,7 @@ A curated list of awesome ham radio stuff
 
 ## Morse Code
 
+* [CWops](https://cwops.org/)
 * [Morsetelegrafieseite DK5KE](https://www.qsl.net/dk5ke/)
 * [Radiotelegraphy Net](http://www.radiotelegraphy.net/) - History - Keys - Operations - Technology
 * [PA3BWK's Ultimate Morse Code Web site](http://morsecode.nl/)
@@ -30,42 +34,34 @@ A curated list of awesome ham radio stuff
 
 [//]: # (http://highspeedtelegraphy.com/Morse-keys)
 [//]: # (http://highspeedtelegraphy.com/Morse-Runner-toplist)
+[//]: # (https://military.wikia.org/wiki/Morse_code)
+[//]: # (https://ham.stackexchange.com/questions/1281/what-is-the-record-for-the-highest-non-automated-over-the-air-cw-wpm-speed)
 
-https://military.wikia.org/wiki/Morse_code
-https://w6rec.com/learn-morse-code/
-https://www.dxzone.com/morse-code-learn-guide/
-http://morsecode.nl/vhsc%20club.html
-https://ham.stackexchange.com/questions/1281/what-is-the-record-for-the-highest-non-automated-over-the-air-cw-wpm-speed
-http://www.ws1sm.com/CW-Page.html
-http://www.telegraph-office.com/pages/turner.html
-https://www.thoughtco.com/how-to-learn-morse-code-4158345
-https://www.podomatic.com/podcasts/k6rau
-https://longislandcwclub.org/
-http://www.justlearnmorsecode.com/
-https://lcwo.net/
-http://www.hamwhisperer.com/2011/04/international-morse-code-lesson-1.html
-http://www.hamwhisperer.com/p/ham-courses.html
-http://www.hamwhisperer.com/p/morse-code-course.html
-http://www.g4fon.net/
-https://cwops.org/cw-academy/cw-academy-options/
-https://cwops.org/
-http://www.arrl.org/learning-morse-code
-http://www.arrl.org/code-proficiency-certificate
-https://morsedx.com/
-https://www.ditdit.fm/resources
-https://www.ditdit.fm/
-https://morsecode.ninja/#
-https://morsecode.ninja/practice/index.html
-https://g4foc.org/Improving-Your-CW
-https://g4foc.org/
+* [WS1SM CW Page, Telegraph History, Morse Code, Key Collecting, Operating CW, CW Links & More<](http://www.ws1sm.com/CW-Page.html)
+* [MEET THE CHAMPION, by Tony Smith G4FAI](http://www.telegraph-office.com/pages/turner.html)
+* [Code Proficiency Certificate](http://www.arrl.org/code-proficiency-certificate)
+* [DitDit - THIS IS YOUR ONE STOP REFERENCE RESOURCE FOR ALL THINGS MORSE CODE AND CW!](https://www.ditdit.fm/resources)
+* [DitDit - THE PODCAST FOR MORSE CODE AND CW OPERATORS!](https://www.ditdit.fm/)
+* [Morse code Ninja](https://morsecode.ninja/)
+* [First Class CW Operators' Club](https://g4foc.org/)
+* [First Class CW Operators' Club - IMPROVING YOUR CW](https://g4foc.org/Improving-Your-CW)
 
 ### Learning & Practice
 
+* [ARRL Learning Morse Code](http://www.arrl.org/learning-morse-code)
+* [Learn Morse code like you learned to speak…](https://morsedx.com/)
 * [Learn CW (Morse Code) as a language](https://w6rec.com/learn-morse-code/)
 * [K6DBG - CW really is a language!](http://cw.dimebank.com/cak/k6dbg/k6dbg_cw.html)
+* [How to Learn Morse Code for Beginners](https://www.dxzone.com/morse-code-learn-guide/)
+* [Strategies to Learn Morse Code](https://www.thoughtco.com/how-to-learn-morse-code-4158345)
+* [K6RAU Morse Code Course](https://www.podomatic.com/podcasts/k6rau)
+* [CW Academy](https://cwops.org/cw-academy/)
+* [The Long Island CW Club](https://longislandcwclub.org/)
+* [The Ham Whisperer: Morse Code Course](http://www.hamwhisperer.com/p/morse-code-course.html)
+* [LCWO.net - Learn Morse Code (CW) Online!](https://lcwo.net/)
 * [CW](https://www.qsl.net/n4nss/cw.htm)
 * [Morse Code Practice](http://aa9pw.com/morsecode/)
-
+* [Morse code Ninja Practice](https://morsecode.ninja/practice/index.html)
 
 ### QRQ - High Speed Code
 
@@ -82,7 +78,8 @@ https://g4foc.org/
 ### Software
 
 * [A Fully Automatic Morse Code Teaching Machine](http://c2.com/morse/)
-
+* [Just Learn Morse Code](http://www.justlearnmorsecode.com/)
+* [G4FON](http://www.g4fon.net/)
 
 ### Keys & Keyers
 
@@ -96,3 +93,7 @@ https://g4foc.org/
 * [Creating secure digital QSL cards with your LoTW certificate](https://scruss.com/blog/2011/10/09/creating-secure-digital-qsl-cards-with-your-lotw-certificate/)
     * [Secure digital QSL cards, part 2: shell script](https://scruss.com/blog/2011/10/15/secure-digital-qsl-cards-part-2-shell-script/)
  
+
+## Homebrewing
+
+### Trancivers

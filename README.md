@@ -1,6 +1,10 @@
 # awesome-ham-radio [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome ham radio stuff
 
+There is some over lap with [DD5HT awesome-hamradio](https://github.com/DD5HT/awesome-hamradio).
+It is a collection of the best free and open source hamradio projects.
+This page has somewhat brader scope.
+
 [Ham Radio Wiki](https://ham-radio.fandom.com/wiki/Ham_Radio_Wiki)
 
 ## Test Prep

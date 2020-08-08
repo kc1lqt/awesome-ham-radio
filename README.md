@@ -1,6 +1,10 @@
 # awesome-ham-radio [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome ham radio stuff
 
+There is some over lap with [DD5HT awesome-hamradio](https://github.com/DD5HT/awesome-hamradio).
+It is a collection of the best free and open source hamradio projects.
+This page has somewhat broader scope.
+
 [Ham Radio Wiki](https://ham-radio.fandom.com/wiki/Ham_Radio_Wiki)
 
 ## Test Prep
@@ -102,3 +106,4 @@ per minute or higher(Paris-base,60 WPM)
 * [QCX+ 5W CW transceiver kit](https://www.qrp-labs.com/qcxp.html)
 * [QRPGuys 40/30/20m DSB Digital Transceiver II Kit](https://qrpguys.com/qrpguys-dsb-digital-transceiver2)
 * [UBITX V6](https://www.hfsignals.com/index.php/ubitx-v6/)
+* [Phaser Digital Mode Transceiver](https://midnightdesignsolutions.com/phaser/)

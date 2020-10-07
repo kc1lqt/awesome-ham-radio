@@ -109,3 +109,5 @@ per minute or higher(Paris-base,60 WPM)
 * [UBITX V6](https://www.hfsignals.com/index.php/ubitx-v6/)
 * [Phaser Digital Mode Transceiver](https://midnightdesignsolutions.com/phaser/)
 * [Softrock Ensemble RXTX](http://www.wb5rvz.org/ensemble_rxtx/)
+* [RS-HFIQ Transceiver](https://sites.google.com/site/rshfiqtransceiver/)
+

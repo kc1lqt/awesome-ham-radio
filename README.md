@@ -58,6 +58,7 @@ This page has somewhat broader scope.
 * [CW](https://www.qsl.net/n4nss/cw.htm)
 * [Morse Code Practice](http://aa9pw.com/morsecode/)
 * [Morse code Ninja Practice](https://morsecode.ninja/practice/index.html)
+* [MorseCodeNow](https://morsecodenow.com) - Text-to-Morse and Morse-to-text translator with audio playback at correct timings, full chart and practice pages
 
 ### QRQ - High Speed Code
 
